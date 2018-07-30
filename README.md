@@ -2,7 +2,7 @@
 A web server for handling general HTTP requests, built with sockets in Java.
 
 # Function
-This web server is able to respond properly to HTTP requests from client(web browser) and it can handle requests simultaneously. Java sockets are used to to accept string-format requests and return string-format responses. So, this Http Sever is implemented at very low level. It processes stand HTTP requests and responses all by hand.
+This web server is able to handle HTTP requests from client(web browser) simultaneously. Java sockets are used to accept string-format requests, process them and return string-format responses. So, this web server processes standard HTTP requests and responses at socket level.
 
 <kbd><img src="/public/homepage.png"></kbd>
 
