@@ -1,0 +1,140 @@
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET / HTTP/1.1
+2018-05-25 22:18:33 > This is a [DIRECTORY EXPLORE] request..
+2018-05-25 22:18:33 >> Explore the content under folder: WebServer
+2018-05-25 22:18:33 >>> Directory: bin
+2018-05-25 22:18:33 >>> Directory: images
+2018-05-25 22:18:33 >>> Directory: src
+2018-05-25 22:18:33 >>> File: .classpath
+2018-05-25 22:18:33 >>> File: .gitignore
+2018-05-25 22:18:33 >>> File: .project
+2018-05-25 22:18:33 >>> File: WebServerLogs.txt
+2018-05-25 22:18:33 >>> File: addnums.html
+2018-05-25 22:18:33 >>> File: cat.html
+2018-05-25 22:18:33 >>> File: dog.txt
+2018-05-25 22:18:33 >>> File: favicon.ico
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET /images/folder.png HTTP/1.1
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET /images/file.png HTTP/1.1
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET /images/text.png HTTP/1.1
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET /images/html.png HTTP/1.1
+2018-05-25 22:18:33 
+2018-05-25 22:18:33 Http Worker is working...
+2018-05-25 22:18:33 GET /favicon.ico HTTP/1.1
+2018-05-25 22:20:20 
+2018-05-25 22:20:20 Http Worker is working...
+2018-05-25 22:20:20 GET /src HTTP/1.1
+2018-05-25 22:20:20 > This is a [DIRECTORY EXPLORE] request..
+2018-05-25 22:20:20 >> Explore the content under folder: src
+2018-05-25 22:20:20 >>> Directory: johnny
+2018-05-25 22:20:20 
+2018-05-25 22:20:20 Http Worker is working...
+2018-05-25 22:20:20 GET /images/folder.png HTTP/1.1
+2018-05-25 22:20:24 
+2018-05-25 22:20:24 Http Worker is working...
+2018-05-25 22:20:24 GET /src/johnny HTTP/1.1
+2018-05-25 22:20:24 > This is a [DIRECTORY EXPLORE] request..
+2018-05-25 22:20:24 >> Explore the content under folder: johnny
+2018-05-25 22:20:24 >>> Directory: portfolio
+2018-05-25 22:20:24 
+2018-05-25 22:20:24 Http Worker is working...
+2018-05-25 22:20:24 GET /images/folder.png HTTP/1.1
+2018-05-25 22:20:24 
+2018-05-25 22:20:24 Http Worker is working...
+2018-05-25 22:20:24 GET /src/johnny/portfolio HTTP/1.1
+2018-05-25 22:20:24 > This is a [DIRECTORY EXPLORE] request..
+2018-05-25 22:20:24 >> Explore the content under folder: portfolio
+2018-05-25 22:20:24 >>> Directory: webserver
+2018-05-25 22:20:25 
+2018-05-25 22:20:25 Http Worker is working...
+2018-05-25 22:20:25 GET /images/folder.png HTTP/1.1
+2018-05-25 22:20:26 
+2018-05-25 22:20:26 Http Worker is working...
+2018-05-25 22:20:26 GET /src/johnny/portfolio/webserver HTTP/1.1
+2018-05-25 22:20:26 > This is a [DIRECTORY EXPLORE] request..
+2018-05-25 22:20:26 >> Explore the content under folder: webserver
+2018-05-25 22:20:26 >>> File: HttpWorker.java
+2018-05-25 22:20:26 >>> File: LogUtil.java
+2018-05-25 22:20:26 >>> File: WebServer.java
+2018-05-25 22:20:26 
+2018-05-25 22:20:26 Http Worker is working...
+2018-05-25 22:20:26 GET /images/folder.png HTTP/1.1
+2018-05-25 22:20:26 
+2018-05-25 22:20:26 Http Worker is working...
+2018-05-25 22:20:26 GET /images/java.png HTTP/1.1
+2018-05-25 22:23:40 
+2018-05-25 22:23:40 Http Worker is working...
+2018-05-25 22:23:40 GET /src/johnny/portfolio/webserver/WebServer.java HTTP/1.1
+2018-05-25 22:23:40 > This is a [SINGLE FILE] request..
+2018-05-25 22:23:40 >> Seek the content of file: WebServer.java
+2018-05-25 22:25:20 
+2018-05-25 22:25:20 Http Worker is working...
+2018-05-25 22:25:20 GET /dog.txt HTTP/1.1
+2018-05-25 22:25:20 > This is a [SINGLE FILE] request..
+2018-05-25 22:25:20 >> Seek the content of file: dog.txt
+2018-05-25 22:25:45 
+2018-05-25 22:25:45 Http Worker is working...
+2018-05-25 22:25:45 GET /cat.html HTTP/1.1
+2018-05-25 22:25:45 > This is a [SINGLE FILE] request..
+2018-05-25 22:25:45 >> Seek the content of file: cat.html
+2018-05-25 22:27:48 
+2018-05-25 22:27:48 Http Worker is working...
+2018-05-25 22:27:48 GET /addnums.html HTTP/1.1
+2018-05-25 22:27:48 > This is a [SINGLE FILE] request..
+2018-05-25 22:27:48 >> Seek the content of file: addnums.html
+2018-05-25 22:28:13 
+2018-05-25 22:28:13 Http Worker is working...
+2018-05-25 22:28:13 GET /addnums.fake-cgi?person=Johnny&num1=4&num2=5 HTTP/1.1
+2018-05-25 22:28:13 > This is a [CGI] request..
+2018-05-25 22:28:13 >> 4 + 5 = 9
+2018-05-25 22:28:34 
+2018-05-25 22:28:34 Http Worker is working...
+2018-05-25 22:28:34 GET /addnums.fake-cgi?person=Johnny&num1=4aa&num2=5 HTTP/1.1
+2018-05-25 22:28:34 > This is a [CGI] request..
+2018-05-25 22:28:34 >> Invalid parameter: 4aa or 5, both must be integer!
+2018-05-26 08:17:41 
+2018-05-26 08:17:41 Http Worker is working...
+2018-05-26 08:17:41 GET / HTTP/1.1
+2018-05-26 08:17:41 > This is a [DIRECTORY EXPLORE] request..
+2018-05-26 08:17:41 >> Explore the content under folder: WebServer
+2018-05-26 08:17:41 >>> Directory: bin
+2018-05-26 08:17:41 >>> Directory: images
+2018-05-26 08:17:41 >>> Directory: src
+2018-05-26 08:17:41 >>> File: .classpath
+2018-05-26 08:17:41 >>> File: .gitignore
+2018-05-26 08:17:41 >>> File: .project
+2018-05-26 08:17:41 >>> File: WebServerLogs.txt
+2018-05-26 08:17:41 >>> File: addnums.html
+2018-05-26 08:17:41 >>> File: cat.html
+2018-05-26 08:17:41 >>> File: dog.txt
+2018-05-26 08:17:41 >>> File: favicon.ico
+2018-05-26 08:17:42 
+2018-05-26 08:17:42 Http Worker is working...
+2018-05-26 08:17:42 GET /images/folder.png HTTP/1.1
+2018-05-26 08:17:42 
+2018-05-26 08:17:42 Http Worker is working...
+2018-05-26 08:17:42 GET /images/file.png HTTP/1.1
+2018-05-26 08:17:42 
+2018-05-26 08:17:42 Http Worker is working...
+2018-05-26 08:17:42 GET /images/text.png HTTP/1.1
+2018-05-26 08:17:42 
+2018-05-26 08:17:42 Http Worker is working...
+2018-05-26 08:17:42 GET /images/html.png HTTP/1.1
+2018-05-26 08:17:49 
+2018-05-26 08:17:49 Http Worker is working...
+2018-05-26 08:17:49 GET /addnums.html HTTP/1.1
+2018-05-26 08:17:49 > This is a [SINGLE FILE] request..
+2018-05-26 08:17:49 >> Seek the content of file: addnums.html
+2018-05-26 08:22:26 
+2018-05-26 08:22:26 Http Worker is working...
+2018-05-26 08:22:26 GET /WebServerLogs.txt HTTP/1.1
+2018-05-26 08:22:26 > This is a [SINGLE FILE] request..
+2018-05-26 08:22:26 >> Seek the content of file: WebServerLogs.txt
