@@ -13,7 +13,7 @@ git clone https://github.com/jojozhuang/web-server-java.git
 Open the project in Eclipse, compile and run. Access http://localhost:2540/ in web browser, enjoy!
 
 # Portfolio
-Read portfolio [Web Server(Java)](https://jojozhuang.github.io/portfolio/web-server-java/) to learn the main functions of this web server.
+Read portfolio [Web Server(Java)](https://jojozhuang.github.io/project/web-server-java) to learn the main functions of this web server.
 
 # Tutorial
-Read tutorial [Building Web Server with Socket in Java](https://jojozhuang.github.io/tutorial/java/building-web-server-with-socket-java/) to learn how this web server is built.
+Read tutorial [Building Web Server with Socket in Java](https://jojozhuang.github.io/programming/building-web-server-with-socket-java) to learn how this web server is built.
