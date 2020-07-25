@@ -16,4 +16,4 @@ Open the project in Eclipse, compile and run. Access http://localhost:2540/ in w
 Read portfolio [Web Server(Java)](https://jojozhuang.github.io/project/web-server-java) to learn the main functions of this web server.
 
 # Tutorial
-Read tutorial [Building Web Server with Socket in Java](https://jojozhuang.github.io/programming/building-web-server-with-socket-java) to learn how this web server is built.
+Read tutorial [Building Web Server with Java Socket](https://jojozhuang.github.io/programming/building-web-server-with-java-socket) to learn how this web server is built.
